@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Noticias CRUD</title>
+    <link rel="stylesheet" href="wwwroot/css/site.css" />
+</head>
+<body>
+    <h1>Noticias CRUD</h1>
+    <h3>Agregar</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addNoticia()">
+        <label for="add-titulo">Título:</label>
+        <input type="text" id="add-titulo" placeholder="Nuevo título" required>
+
+        <label for="add-pais">País:</label>
+        <input type="text" id="add-pais" placeholder="País" required>
+
+        <label for="add-categoria">Categoría:</label>
+        <input type="text" id="add-categoria" placeholder="Categoría" required>
+
+        <label for="add-fecha">Fecha:</label>
+        <input type="date" id="add-fecha" required>
+
+        <label for="add-fuente">Fuente:</label>
+        <input type="text" id="add-fuente" placeholder="Fuente">
+
+        <label for="add-contenido">Contenido:</label>
+        <textarea id="add-contenido" placeholder="Contenido" required></textarea>
+
+        <label for="add-enlace">Enlace:</label>
+        <input type="text" id="add-enlace" placeholder="Enlace">
+
+        <label for="add-autor">Autor:</label>
+        <input type="text" id="add-autor" placeholder="Autor">
+
+        <input type="submit" value="Agregar">
+    </form>
+
+    <div id="editForm">
+        <h3>Editar</h3>
+        <form action="javascript:void(0);" onsubmit="updateNoticia()">
+            <input type="hidden" id="edit-id">
+
+            <label for="edit-titulo">Título:</label>
+            <input type="text" id="edit-titulo" required>
+
+            <label for="edit-pais">País:</label>
+            <input type="text" id="edit-pais" required>
+
+            <label for="edit-categoria">Categoría:</label>
+            <input type="text" id="edit-categoria" required>
+
+            <label for="edit-fecha">Fecha:</label>
+            <input type="date" id="edit-fecha" required>
+
+            <label for="edit-fuente">Fuente:</label>
+            <input type="text" id="edit-fuente">
+
+            <label for="edit-contenido">Contenido:</label>
+            <textarea id="edit-contenido" required></textarea>
+
+            <label for="edit-enlace">Enlace:</label>
+            <input type="text" id="edit-enlace">
+
+            <label for="edit-autor">Autor:</label>
+            <input type="text" id="edit-autor">
+
+            <input type="submit" value="Guardar">
+            <a onclick="closeInput()" aria-label="Cerrar">&#10006;</a>
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>País</th>
+            <th>Categoría</th>
+            <th>Fecha</th>
+            <th>Fuente</th>
+            <th>Contenido</th>
+            <th>Enlace</th>
+            <th>Autor</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tbody id="noticias"></tbody>
+    </table>
+
+    <script src="wwwroot/js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getItems();
+    </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Treis\\Downloads\\Proyecto Final Tecnologia\\Noticias\\Noticias Proyecto 1 Final\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Treis\\Downloads\\Proyecto Final Tecnologia\\Noticias\\Noticias Proyecto 1 Final\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Treis\\Downloads\\Proyecto Final Tecnologia\\Noticias\\Noticias Proyecto 1 Final\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Noticias Proyecto 1 Final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Noticias Proyecto 1 Final.props",
+      "PackagePath": "build\\Noticias Proyecto 1 Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Noticias Proyecto 1 Final.props",
+      "PackagePath": "buildMultiTargeting\\Noticias Proyecto 1 Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Noticias Proyecto 1 Final.props",
+      "PackagePath": "buildTransitive\\Noticias Proyecto 1 Final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

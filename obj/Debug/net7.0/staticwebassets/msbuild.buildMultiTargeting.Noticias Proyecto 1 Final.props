@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Noticias Proyecto 1 Final.props" />
+</Project>

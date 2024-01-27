@@ -1,0 +1,89 @@
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\appsettings.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Noticias Proyecto 1 Final.exe
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Noticias Proyecto 1 Final.deps.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Noticias Proyecto 1 Final.runtimeconfig.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Noticias Proyecto 1 Final.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Noticias Proyecto 1 Final.pdb
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.csproj.AssemblyReference.cache
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.AssemblyInfoInputs.cache
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.AssemblyInfo.cs
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.csproj.CoreCompileInputs.cache
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.sourcelink.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\staticwebassets\msbuild.Noticias Proyecto 1 Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\staticwebassets\msbuild.build.Noticias Proyecto 1 Final.props
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Noticias Proyecto 1 Final.props
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Noticias Proyecto 1 Final.props
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\scopedcss\bundle\Noticias Proyecto 1 Final.styles.css
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.csproj.CopyComplete
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\refint\Noticias Proyecto 1 Final.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.pdb
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.genruntimeconfig.cache
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\ref\Noticias Proyecto 1 Final.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\Noticias Proyecto 1 Final.staticwebassets.runtime.json
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Treis\Downloads\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.dll
+D:\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\refint\Noticias Proyecto 1 Final.dll
+D:\Proyecto Final Tecnologia\Noticias\Noticias Proyecto 1 Final\obj\Debug\net7.0\Noticias Proyecto 1 Final.pdb
